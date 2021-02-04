@@ -62,4 +62,4 @@ Any suggestion/Crticism is most welcomed
 1. Python
 2. Flask
 3. HTML
-4. Web Deployement (Heroku)
+4. Web Deployement(Heroku)
